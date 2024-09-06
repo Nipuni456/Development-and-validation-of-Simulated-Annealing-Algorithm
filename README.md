@@ -1,2 +1,2 @@
-# Development-and-validation-of-Simulated-Annealing-Algorithm
-Development and Validation of a Simulated Annealing Algorithm for Optimization! This project involved implementing and fine-tuning a Simulated Annealing (SA) algorithm in Python to solve complex optimization problems, including both unimodal and multimodal benchmark functions.
+# Simulated Annealing Algorithm with Metropolis criterion
+This repository features the implementation of the "Simulated Annealing Algorithm with Metropolis Criterion," a probabilistic technique used for finding the global optimum of complex functions. The algorithm leverages the Metropolis criterion to accept or reject new solutions based on their energy states, aiding in escaping local optima and approaching the global optimum. The code demonstrates the SA algorithm's application to various optimization problems and the code includes clear documentation and examples to illustrate its application.
